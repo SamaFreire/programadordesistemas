@@ -1,0 +1,9 @@
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\bin\x64\Debug\calculodeidada.exe.config
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\bin\x64\Debug\calculodeidada.exe
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\bin\x64\Debug\calculodeidada.pdb
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\obj\x64\Debug\calculodeidada.frmCalculoIdade.resources
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\obj\x64\Debug\calculodeidada.Properties.Resources.resources
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\obj\x64\Debug\calculodeidada.csproj.GenerateResource.cache
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\obj\x64\Debug\calculodeidada.csproj.CoreCompileInputs.cache
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\obj\x64\Debug\calculodeidada.exe
+C:\Users\elissama.fpena\source\programadordesistemas\calculodeidada\obj\x64\Debug\calculodeidada.pdb
